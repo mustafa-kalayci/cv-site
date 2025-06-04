@@ -2,7 +2,7 @@ import React from "react";
 
 export default function CV() {
   return (
-    <section className="max-w-6xl mx-auto px-6 py-20 text-gray-800 bg-white">
+    <section className="max-w-5xl mx-auto px-6 py-20 text-gray-800 bg-white">
       <div className="space-y-10 text-gray-800">
         <section>
           <h2 className="text-2xl font-semibold text-[#744f9c] mb-2">Education</h2>
