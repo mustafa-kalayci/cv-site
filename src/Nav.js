@@ -10,7 +10,7 @@ export default function Nav() {
   ];
 
   return (
-    <nav className="bg-midnight   mx-auto px-6 py-4 shadow-md">
+    <nav className="bg-midnight    px-6 py-4 shadow-md">
       <ol className="flex flex-wrap justify-center items-center space-x-20 text-sm text-white font-semibold">
         <li className="flex items-center">
           <a href="#"><Link to="/">

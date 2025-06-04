@@ -10,78 +10,78 @@ export default function ConferencesAndTalks() {
         <li className="flex items-start gap-2">
           <span className="w-1 h-1 mt-2 rounded-full bg-black"></span>
           <p className="text-sm whitespace-pre-line">
-            <strong>July 2025:</strong> 30th Applications of Computer Algebra (ACA 2025), Crete, Greece (Invited Talk){"\n"}
-            Talk: Bent partitions, vectorial dual-bent functions, and association schemes.
+            <strong>July 2025:</strong> 30th Applications of Computer Algebra (ACA 2025), Crete, Greece (<strong>Invited Talk</strong>){"\n"}
+            <strong>Talk:</strong> Bent partitions, vectorial dual-bent functions, and association schemes.
           </p>
         </li>
         <li className="flex items-start gap-2">
           <span className="w-1 h-1 mt-2 rounded-full bg-black"></span>
           <p className="text-sm whitespace-pre-line">
             <strong>May 2025:</strong> 8th Workshop on Design Theory, Hadamard Matrices and Applications (Hadamard 2025), Sevilla, Spain{"\n"}
-            Talk: Bent partitions, vectorial-dual bent functions, and LP-packings
+            <strong>Talk:</strong> Bent partitions, vectorial-dual bent functions, and LP-packings
           </p>
         </li>
         <li className="flex items-start gap-2">
           <span className="w-1 h-1 mt-2 rounded-full bg-black"></span>
           <p className="text-sm whitespace-pre-line">
-            <strong>February 2024:</strong> Institut für Mathematik, Alpen-Adria-Universität Klagenfurt, Klagenfurt, Austria (Invited Talk){"\n"}
-            Talk: New results on vectorial-dual bent functions, bent partitions and association schemes
-          </p>""""
-        </li>""""
+            <strong>February 2024:</strong> Institut für Mathematik, Alpen-Adria-Universität Klagenfurt, Klagenfurt, Austria (<strong>Invited Talk</strong>){"\n"}
+             <strong>Talk:</strong> New results on vectorial-dual bent functions, bent partitions and association schemes
+          </p>
+        </li>
         <li className="flex items-start gap-2">
           <span className="w-1 h-1 mt-2 rounded-full bg-black"></span>
           <p className="text-sm whitespace-pre-line">
             <strong>October 2023:</strong> The 40th Colloquium on Combinatorics (KOLKOM), Heidelberg, Germany{"\n"}
-            Talk: Bent partitions, strongly regular graphs, and association schemes
+            <strong>Talk:</strong> Bent partitions, strongly regular graphs, and association schemes
           </p>
         </li>
         <li className="flex items-start gap-2">
           <span className="w-1 h-1 mt-2 rounded-full bg-black"></span>
           <p className="text-sm whitespace-pre-line">
-            <strong>September 2023:</strong> The Annual Meeting of Deutsche Mathematiker Vereinigung, Ilmenau, Germany (Invited Talk){"\n"}
-            Talk: Generalized spread bent partitions and association schemes
+            <strong>September 2023:</strong> The Annual Meeting of Deutsche Mathematiker Vereinigung, Ilmenau, Germany (<strong>Invited Talk</strong>){"\n"}
+            <strong>Talk:</strong> Generalized spread bent partitions and association schemes
           </p>
         </li>
         <li className="flex items-start gap-2">
           <span className="w-1 h-1 mt-2 rounded-full bg-black"></span>
           <p className="text-sm whitespace-pre-line">
             <strong>June 2023:</strong> International Conference on Finite Fields and their Applications (Fq15), Paris, France{"\n"}
-            Talk: Generalized spread bent partitions and LP-packings
+            <strong>Talk:</strong> Generalized spread bent partitions and LP-packings
           </p>
         </li>
         <li className="flex items-start gap-2">
           <span className="w-1 h-1 mt-2 rounded-full bg-black"></span>
           <p className="text-sm whitespace-pre-line">
             <strong>September 2022:</strong> The Seventh International Workshop on Boolean Functions and Their Applications (BFA), Balestrand, Norway  <strong>(Accepted Extended Abstract)</strong>{"\n"}
-            Talk: Bent partitions, semifields and association schemes
+            <strong>Talk:</strong> Bent partitions, semifields and association schemes
           </p>
         </li>
         <li className="flex items-start gap-2">
           <span className="w-1 h-1 mt-2 rounded-full bg-black"></span>
           <p className="text-sm whitespace-pre-line">
             <strong>March 2022:</strong> The Twelfth International Workshop on Coding and Cryptography (WCC) (online) <strong> (Accepted Extended Abstract)</strong>{"\n"}
-            Talk: On partially APN functions
+            <strong>Talk:</strong> On partially APN functions
           </p>
         </li>
         <li className="flex items-start gap-2">
           <span className="w-1 h-1 mt-2 rounded-full bg-black"></span>
           <p className="text-sm whitespace-pre-line">
-            <strong>June 2021:</strong> RICAM Discrete Mathematics Seminars (online) (Invited Talk){"\n"}
-            Talk: Permutation polynomials over finite fields and factorization
+            <strong>June 2021:</strong> RICAM Discrete Mathematics Seminars (online) ( <strong>Invited Talk</strong>){"\n"}
+             <strong>Talk:</strong> Permutation polynomials over finite fields and factorization
           </p>
         </li>
         <li className="flex items-start gap-2">
           <span className="w-1 h-1 mt-2 rounded-full bg-black"></span>
           <p className="text-sm whitespace-pre-line">
             <strong>December 2020:</strong> The 3rd Bringing Young Mathematicians Together (online){"\n"}
-            Talk: Permutation polynomials over finite fields and factorization
+            <strong>Talk:</strong> Permutation polynomials over finite fields and factorization
           </p>
         </li>
         <li className="flex items-start gap-2">
           <span className="w-1 h-1 mt-2 rounded-full bg-black"></span>
           <p className="text-sm whitespace-pre-line">
             <strong>October 2020:</strong> İzmir Mathematics Days -III (online){"\n"}
-            Talk: Permutation polynomials over finite fields and factorization
+            <strong>Talk:</strong> Permutation polynomials over finite fields and factorization
           </p>
         </li>
         <li className="flex items-start gap-2">
@@ -106,14 +106,14 @@ export default function ConferencesAndTalks() {
           <span className="w-1 h-1 mt-2 rounded-full bg-black"></span>
           <p className="text-sm whitespace-pre-line">
             <strong>February 2019:</strong> Sabancı University, İstanbul, Turkey{"\n"}
-            Talk: On factorizations of some permutation polynomials over finite fields
+             <strong>Talk:</strong> On factorizations of some permutation polynomials over finite fields
           </p>
         </li>
         <li className="flex items-start gap-2">
           <span className="w-1 h-1 mt-2 rounded-full bg-black"></span>
           <p className="text-sm whitespace-pre-line">
             <strong>May 2018:</strong> XX. Antalya Algebra Days, İzmir, Turkey{"\n"}
-            Talk: On factorizations of some permutation polynomials over finite fields
+             <strong>Talk:</strong> On factorizations of some permutation polynomials over finite fields
           </p>
         </li>
         <li className="flex items-start gap-2">
