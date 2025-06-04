@@ -70,7 +70,7 @@ Sezel Alkan (Ph.D. in progress)
         </section>
 
         <section>
-          <h2 className="text-2xl font-semibold text-[#744f9c] mb-2">Honors and Awards</h2>
+          <h2 className="text-2xl font-semibold text-[#744f9c] mb-2 ">Honors and Awards</h2>
           <p className="leading-relaxed whitespace-pre-line">
 Participation Grant for International Congress of Mathematics (ICM) 2026 by American Mathematical Society, March 2025<br />
 Participation Grant for Participation in Scientific Meetings Abroad by BİDEB 2224-A, TÜBİTAK, October 2022<br />
