@@ -19,7 +19,7 @@ function App() {
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
   return (
-    <div className="h-full  justify-center">
+    <div className="h-full  justify-center flex flex-col min-h-screen">
       
 
      
@@ -28,7 +28,7 @@ function App() {
     
     
     
-    
+    <main className="flex-1">
     <Routes>
 <Route path="/" element={<Home/>}></Route>
 <Route path="/research" element={<Research/>} ></Route>
@@ -37,8 +37,9 @@ function App() {
 <Route path="/cv" element={<CV/>} ></Route>
 <Route path="/contact"></Route>
     </Routes>
-    <Footer/>
           <ScrollToTopButton />
+          </main>
+    <Footer/>
 
     </div>
   );
