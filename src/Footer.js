@@ -11,11 +11,12 @@ export default function Footer() {
         
         {/* Sol: Telif hakkı veya isim */}
         <div className="text-sm mb-4 md:mb-0">
-          © {new Date().getFullYear()} Dr. Tekgül Kalaycı
+          © {new Date().getFullYear()} Tekgül Kalaycı
         </div>
 
         {/* Orta: İletişim ikonları */}
         <div className="flex space-x-4 text-white text-xl">
+          {/* 
           <a
             href="https://github.com/kullaniciadi"
             target="_blank"
@@ -38,6 +39,7 @@ export default function Footer() {
           >
             <Mail size={20} />
           </a>
+          */}
         </div>
 
         {/* Sağ: Scroll to Top */}
