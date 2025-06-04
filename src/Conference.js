@@ -3,7 +3,7 @@ import React from "react";
 export default function ConferencesAndTalks() {
   return (
     <section className="max-w-5xl mx-auto px-6 py-20 text-gray-800 bg-white">
-      <h1 className="text-3xl md:text-4xl font-bold text-purple-600 mb-10 text-center">
+      <h1 className="text-3xl md:text-4xl font-bold text-purple-600 mb-10 ">
         Conferences & Talks
       </h1>
       <ul className="pl-4 space-y-6 text-gray-800 leading-relaxed">

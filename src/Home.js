@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <section className="max-w-6xl mx-auto px-6 py-20 text-gray-800 bg-white">
       <motion.h1
-        className="text-4xl md:text-5xl font-bold text-[#744f9c] text-center mb-16"
+        className="text-4xl md:text-5xl font-bold text-[#744f9c]  mb-16"
         initial={{ opacity: 0, y: -20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8 }}
