@@ -37,7 +37,7 @@ export default function Publications() {
         <p >
           N. Anbar, F-W. Fu, T. Kalaycı, W. Meidl, J. Wang, Y. Wei,{' '}
           
-            Vectorial bent functions, bent partitions and association schemes
+            Analysis of some classes of bent partitions and vectorial bent functions
          , submitted
         </p>
 
