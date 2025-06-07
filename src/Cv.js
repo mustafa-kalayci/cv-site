@@ -8,10 +8,14 @@ export default function CV() {
           <h1 className="text-3xl  text-[#744f9c] mb-2 font-bold">Education</h1>
           <p className="leading-relaxed">
             <strong>Ph.D.:</strong> Mathematics, Sabancı University, İstanbul, Turkey, January 2019<br />
+            <strong>Ph.D. Thesis:</strong> On Factorization of Some Permutation Polynomials over Finite Fields<br></br>
             <strong>Thesis Supervisor:</strong> Prof. Alev Topuzoğlu<br />
             <strong>M.Sc.:</strong> Mathematics, İzmir Institute of Technology, İzmir, Turkey, August 2014<br />
+            <strong> M.Sc. Thesis:</strong> Semiperfect and Perfect Group Rings<br/>
            <strong>Thesis Supervisor:</strong> Prof. Dilek Pusat<br />
-            <strong>B.Sc.:</strong> Mathematics, Dokuz Eylül University, İzmir, Turkey, June 2011
+            <strong>B.Sc.:</strong> Mathematics, Dokuz Eylül University, İzmir, Turkey, June 2011<br/>
+            <strong>B.Sc Thesis: </strong>Representations of Unitary Groups<br/>
+<strong>Thesis Supervisor:</strong> Dr. Murat Altunbulak 
           </p>
         </section>
 
