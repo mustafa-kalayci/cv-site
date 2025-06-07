@@ -8,9 +8,9 @@ export default function CV() {
           <h1 className="text-3xl  text-[#744f9c] mb-2 font-bold">Education</h1>
           <p className="leading-relaxed">
             <strong>Ph.D.:</strong> Mathematics, Sabancı University, İstanbul, Turkey, January 2019<br />
-            <strong>Advisor:</strong> Prof. Alev Topuzoğlu<br />
+            <strong>Thesis Supervisor:</strong> Prof. Alev Topuzoğlu<br />
             <strong>M.Sc.:</strong> Mathematics, İzmir Institute of Technology, İzmir, Turkey, August 2014<br />
-           <strong>Advisor:</strong> Prof. Dilek Pusat<br />
+           <strong>Thesis Supervisor:</strong> Prof. Dilek Pusat<br />
             <strong>B.Sc.:</strong> Mathematics, Dokuz Eylül University, İzmir, Turkey, June 2011
           </p>
         </section>
@@ -29,9 +29,9 @@ Post-doctoral Researcher, Sabancı University, İstanbul, Turkey<br />
 <strong>July 2024–August 2024</strong><br />
 Instructor, Sabancı University, İstanbul, Turkey<br />
 <strong>March 2021–July 2024</strong><br />
+Post-doctoral Researcher, Sabancı University, İstanbul, Turkey<br />
 <strong>Project Title:</strong> Generalized bent functions and permutation polynomials<br />
 <strong>Project Supervisor:</strong> Dr. Nurdagül Anbar<br />
-Post-doctoral Researcher, Sabancı University, İstanbul, Turkey<br />
 <strong>June 2020–August 2020</strong><br />
 Instructor, Sabancı University, İstanbul, Turkey<br />
 <strong>February 2019–September 2019</strong><br />
@@ -68,12 +68,12 @@ Math 361: Abstract Algebra (Teaching assistant)
           <p className="leading-relaxed whitespace-pre-line">
 During my postdoctoral appointment at Sabancı University, I was involved in the informal supervision of two Ph.D. students:<br />
 
-<strong>Zohreh Aliabadi</strong> (Ph.D., Sabancı University, July 2022)<br />
-<strong>Thesis:</strong> On the Hull and Complementarity of Certain Quasi-Cyclic Codes
-(with <strong>Prof. Cem Güneri</strong>)
+Zohreh Aliabadi (Ph.D., Sabancı University, July 2022)<br />
+Thesis: On the Hull and Complementarity of Certain Quasi-Cyclic Codes
+(with Prof. Cem Güneri)
 <br />
-<strong>Sezel Alkan</strong> (Ph.D. in progress)
-(with <strong>Dr. Nurdagül Anbar</strong>)
+Sezel Alkan (Ph.D. in progress)
+(with Dr. Nurdagül Anbar)
           </p>
         </section>
 
@@ -91,8 +91,8 @@ Full tuition and board by Sabancı University, 2014-2019, September 2014
           <h2 className="text-2xl font-bold text-[#744f9c] mb-2">Community and Organizational Roles</h2>
           <p className="leading-relaxed whitespace-pre-line ">
 <strong>Project Leader:</strong>
-Women in Numbers Europe 5, August 2025, Split, Croatia
-<strong>Project Title:</strong> Bent Functions<br></br>
+Women in Numbers Europe 5, August 2025, Split, Croatia 
+<strong> Project Title:</strong> Bent Functions<br></br>
 
 <strong>Organizing Committee Member:</strong>
 Bent Functions: Recent Developments, January 2025, Sabancı University, İstanbul, Turkey

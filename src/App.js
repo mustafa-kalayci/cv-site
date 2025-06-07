@@ -10,7 +10,7 @@ import ConferencesAndTalks from './Conference';
 import CV from './Cv';
 import { FaArrowUp } from "react-icons/fa";
 import ScrollToTopButton from './ScrollToTopButton';
-
+import  Contact  from './Contact';
 
 
 
@@ -35,7 +35,7 @@ function App() {
 <Route path="/publications" element={<Publications/>}></Route>
 <Route path="/conandtalks" element={<ConferencesAndTalks/>}></Route>
 <Route path="/cv" element={<CV/>} ></Route>
-<Route path="/contact"></Route>
+<Route path="/contact" element={<Contact/>}></Route>
     </Routes>
           <ScrollToTopButton />
           </main>
