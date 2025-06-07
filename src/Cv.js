@@ -19,7 +19,7 @@ export default function CV() {
           <h2 className="text-2xl font-bold text-[#744f9c] mb-2">Appointments</h2>
           <p className="leading-relaxed whitespace-pre-line">
 <strong>February 2025–</strong><br />
-Post-doctoral Researcher, Alpen-Adria-Universitat Klagenfurt, Klagenfurt, Austria<br />
+Post-doctoral Researcher, Alpen-Adria-Universität Klagenfurt, Klagenfurt, Austria<br />
 <strong>Project Title:</strong> Cryptographic functions<br />
 <strong>Project Supervisor:</strong> Dr. Wilfried Meidl<br />
 <strong>September 2024–January 2025</strong><br />
@@ -68,11 +68,11 @@ Math 361: Abstract Algebra (Teaching assistant)
           <p className="leading-relaxed whitespace-pre-line">
 During my postdoctoral appointment at Sabancı University, I was involved in the informal supervision of two Ph.D. students:<br />
 
-Zohreh Aliabadi (Ph.D., Sabancı University, July 2022)<br />
-Thesis: On the Hull and Complementarity of Certain Quasi-Cyclic Codes
+<strong>Zohreh Aliabadi</strong> (Ph.D., Sabancı University, July 2022)<br />
+<strong>Thesis:</strong> On the Hull and Complementarity of Certain Quasi-Cyclic Codes
 (with Prof. Cem Güneri)
 <br />
-Sezel Alkan (Ph.D. in progress)
+<strong>Sezel Alkan</strong> (Ph.D. in progress)
 (with Dr. Nurdagül Anbar)
           </p>
         </section>

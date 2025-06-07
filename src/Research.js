@@ -5,10 +5,10 @@ export default function ResearchInterests() {
         Research Interests
       </h1>
 
-      <ul className=" pl-6 space-y-8 text-gray-700 leading-relaxed">
+      <ul className=" space-y-8 text-gray-700 leading-relaxed">
 
         <li>
-          <h2 className="text-xl font-semibold text-purple-700 mb-2">
+          <h2 className="text-xl font-semibold text-[#744f9c] mb-2">
             Polynomials over Finite Fields
           </h2>
           <p>
@@ -17,7 +17,7 @@ export default function ResearchInterests() {
         </li>
 
         <li>
-          <h2 className="text-xl font-semibold text-purple-700 mb-2">
+          <h2 className="text-xl font-semibold text-[#744f9c] mb-2">
             Coding Theory
           </h2>
           <p>
@@ -26,7 +26,7 @@ export default function ResearchInterests() {
         </li>
 
         <li>
-          <h2 className="text-xl font-semibold text-purple-700 mb-2">
+          <h2 className="text-xl font-semibold text-[#744f9c] mb-2">
            Cryptographically Significant Functions and Related Combinatorial Objects
           </h2>
           <p>

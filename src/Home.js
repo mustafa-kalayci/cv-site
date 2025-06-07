@@ -12,7 +12,7 @@ export default function Home() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8 }}
       >
-        Welcome! to my webpage
+        Welcome to my webpage!
       </motion.h1>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-start">
