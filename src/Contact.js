@@ -30,11 +30,23 @@ export default function Contact() {
       </div>
 
       <section className="mt-16">
+        
         <h2 className="text-2xl font-semibold text-[#744f9c] mb-6">
           Relevant Pages
         </h2>
 
         <ul className="space-y-4 text-gray-700">
+            <li>
+            <a
+              href="https://www.webofscience.com/wos/author/record/46054556"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-purple-600 underline hover:text-purple-800"
+            >
+                
+              Web of Science
+            </a>
+          </li>
           <li>
             <a
               href="https://www.researchgate.net/profile/Tekguel-Kalayci-3"
@@ -47,6 +59,7 @@ export default function Contact() {
             </a>
           </li>
 
+
           <li>
             <a
               href="https://www.scopus.com/authid/detail.uri?authorId=57210286141"
@@ -57,7 +70,6 @@ export default function Contact() {
               Scopus
             </a>
           </li>
-
           <li>
             <a
               href="https://scholar.google.com/citations?hl=en&user=EnSNGXQAAAAJ&view_op=list_works&sortby=pubdate"
@@ -69,6 +81,8 @@ export default function Contact() {
               Google Scholar
             </a>
           </li>
+
+          
           <li>
             <a
               href="https://orcid.org/0000-0002-8472-9792"
@@ -80,17 +94,7 @@ export default function Contact() {
               ORCID
             </a>
           </li>
-          <li>
-            <a
-              href="https://www.webofscience.com/wos/author/record/46054556"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-purple-600 underline hover:text-purple-800"
-            >
-                
-              Web of Science
-            </a>
-          </li>
+          
           <li>
             <a
               href="https://tr.linkedin.com/in/tekg%C3%BCl-kalayc%C4%B1-59851495"
