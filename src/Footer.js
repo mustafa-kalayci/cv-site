@@ -1,4 +1,3 @@
-import { Github, Linkedin, Mail, ArrowUpFromLine } from "lucide-react";
 
 export default function Footer() {
   const scrollToTop = () => {

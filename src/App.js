@@ -1,5 +1,3 @@
-import ReactDOM from 'react-dom/client';
-import { BrowserRouter } from 'react-router-dom';
 import Nav from "./Nav"
 import Footer from './Footer';
 import { Routes, Route } from 'react-router-dom';
@@ -8,9 +6,9 @@ import Research from "./Research"
 import Publications from './Publications';
 import ConferencesAndTalks from './Conference';
 import CV from './Cv';
-import { FaArrowUp } from "react-icons/fa";
 import ScrollToTopButton from './ScrollToTopButton';
 import  Contact  from './Contact';
+import MathRain from "./MathRain";
 
 
 
@@ -25,7 +23,7 @@ function App() {
      
       
     <Nav/>
-    
+    <MathRain/>
     
     
     <main className="flex-1">

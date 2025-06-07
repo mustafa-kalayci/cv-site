@@ -1,5 +1,3 @@
-import React from "react";
-
 export default function ConferencesAndTalks() {
   return (
     <section className="max-w-5xl mx-auto px-6 py-20 text-gray-800 bg-white">

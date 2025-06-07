@@ -20,3 +20,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.math-rain {
+  position: fixed;
+  top: -2rem;
+  color: #7449fc;
+  animation-name: fall-sway;
+  animation-timing-function: linear;
+  animation-fill-mode: forwards;
+  pointer-events: none;
+  z-index: 10;
+}
+
+@keyframes fall-sway {
+  0% {
+    transform: translateX(0) translateY(0);
+  }
+  50% {
+    transform: translateX(10px) translateY(50vh);
+  }
+  100% {
+    transform: translateX(-10px) translateY(100vh);
+    opacity: 0;
+  }
+
+}

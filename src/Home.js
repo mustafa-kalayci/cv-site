@@ -35,7 +35,7 @@ export default function Home() {
         </motion.div>
 
         <motion.div
-          className="flex justify-center order-1 md:order-2 -mt-20"
+          className="flex justify-center order-1 md:order-2  sm:mt-0 lg:-mt-20 "
           initial={{ opacity: 0, scale: 0.8 }}
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 1 }}
@@ -43,7 +43,7 @@ export default function Home() {
           <img
             src={ProfilePic}
             alt="Profile"
-            className=" rounded-full shadow-lg w-3/4 md:w-2/3 object-cover h-1h "
+            className=" rounded-full shadow-lg w-3/4 md:w-2/3 object-cover h-1h  "
           />
         </motion.div>
       </div>
