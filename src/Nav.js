@@ -2,7 +2,7 @@ import { Home } from "lucide-react";
 import { Link } from "react-router-dom";
 export default function Nav() {
   const items = [
-    { label: "Research interest", path: "/research" },
+    { label: "Research Interests", path: "/research" },
     { label: "Publications", path: "/publications" },
     { label: "Conferences and Talks", path: "/conandtalks" },
     { label: "CV", path: "/cv" },
