@@ -27,7 +27,7 @@ export default function ResearchInterests() {
 
         <li>
           <h2 className="text-xl font-semibold text-purple-700 mb-2">
-           Research interest için Cryptographically Significant Functions and Related Combinatorial Objects
+           Cryptographically Significant Functions and Related Combinatorial Objects
           </h2>
           <p>
             Functions with high nonlinearity, almost perfect nonlinear functions, bent functions, generalized bent functions and their connection to coding theory, cryptography and combinatorial objects (such as designs, difference sets, graphs, packings and association schemes).

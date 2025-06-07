@@ -8,9 +8,9 @@ export default function CV() {
           <h1 className="text-3xl  text-[#744f9c] mb-2 font-bold">Education</h1>
           <p className="leading-relaxed">
             <strong>Ph.D.:</strong> Mathematics, Sabancı University, İstanbul, Turkey, January 2019<br />
-            Advisor: Prof. Alev Topuzoğlu<br />
+            <strong>Advisor:</strong> Prof. Alev Topuzoğlu<br />
             <strong>M.Sc.:</strong> Mathematics, İzmir Institute of Technology, İzmir, Turkey, August 2014<br />
-            Advisor: Prof. Dilek Pusat<br />
+           <strong>Advisor:</strong> Prof. Dilek Pusat<br />
             <strong>B.Sc.:</strong> Mathematics, Dokuz Eylül University, İzmir, Turkey, June 2011
           </p>
         </section>
@@ -21,23 +21,23 @@ export default function CV() {
 <strong>February 2025–</strong><br />
 Post-doctoral Researcher, Alpen-Adria-Universitat Klagenfurt, Klagenfurt, Austria<br />
 <strong>Project Title:</strong> Cryptographic functions<br />
-Project Supervisor: Dr. Wilfried Meidl<br />
+<strong>Project Supervisor:</strong> Dr. Wilfried Meidl<br />
 <strong>September 2024–January 2025</strong><br />
 Post-doctoral Researcher, Sabancı University, İstanbul, Turkey<br />
 <strong>Project Title:</strong> Bent functions and their use in combinatorics<br />
-Project Supervisor: Dr. Nurdagül Anbar<br />
+<strong>Project Supervisor:</strong> Dr. Nurdagül Anbar<br />
 <strong>July 2024–August 2024</strong><br />
 Instructor, Sabancı University, İstanbul, Turkey<br />
 <strong>March 2021–July 2024</strong><br />
 <strong>Project Title:</strong> Generalized bent functions and permutation polynomials<br />
-Project Supervisor: Dr. Nurdagül Anbar<br />
+<strong>Project Supervisor:</strong> Dr. Nurdagül Anbar<br />
 Post-doctoral Researcher, Sabancı University, İstanbul, Turkey<br />
 <strong>June 2020–August 2020</strong><br />
 Instructor, Sabancı University, İstanbul, Turkey<br />
 <strong>February 2019–September 2019</strong><br />
 Post-doctoral Researcher, Sabancı University, İstanbul, Turkey<br />
 <strong>Project Title:</strong> Linear Complementary Dual Codes and Cryptographic Applications<br />
-Project Supervisor: Prof. Cem Güneri<br />
+<strong>Project Supervisor:</strong> Prof. Cem Güneri<br />
 <strong>September 2014–January 2019</strong><br />
 Teaching Assistant, Sabancı University, İstanbul, Turkey<br />
 <strong>January 2013–August 2014</strong><br />
