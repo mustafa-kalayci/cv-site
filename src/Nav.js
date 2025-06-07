@@ -22,13 +22,13 @@ export default function Nav() {
         </li>
         {items.map((item, index) => (
            <li key={index} className="flex items-center">
-            <span className="mx-">{">"}</span>
+            
             <Link
               to={item.path}
               className="relative px-2 py-1 hover:text-purple-800 hover:bg-white transition duration-200 rounded"
             >
               {item.label}
-              <span className="absolute bottom-0 left-0 w-full h-0.5 bg-white opacity-30" />
+             
               <span className="absolute bottom-0 left-0 w-full h-0.5 bg-white scale-x-0 hover:scale-x-100 transition-transform duration-300 origin-left" />
             </Link>
           </li>

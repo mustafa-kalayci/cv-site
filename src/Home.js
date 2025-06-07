@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <section className="max-w-6xl mx-auto px-6 py-20 text-gray-800 bg-white">
       <motion.h1
-        className="text-4xl md:text-5xl font-bold text-[#744f9c]  mb-16"
+        className="text-xl md:text-4xl font-bold text-[#744f9c]  mb-16"
         initial={{ opacity: 0, y: -20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8 }}
@@ -26,7 +26,7 @@ export default function Home() {
           </p>
           <br />
           <p>
-            Following my Ph.D., I held postdoctoral positions at Sabancı University, working with Prof. Cem Güneri on coding theory and with Dr. Nurdagül Anbar Meidl on cryptographically significant functions and their use in combinatorics. I am currently a postdoctoral researcher at the University of Klagenfurt, Austria, under the supervision of Dr. Wilfried Meidl. My research has also involved visits to Prof. Alexander Pott (Otto-von-Guericke University, Germany) and Prof. Enes Pasalic (University of Primorska, Slovenia).
+            Following my Ph.D., I held postdoctoral positions at Sabancı University, working with Prof. Cem Güneri on coding theory and with Dr. Nurdagül Anbar on cryptographically significant functions and their use in combinatorics. I am currently a postdoctoral researcher at the University of Klagenfurt, Austria, under the supervision of Dr. Wilfried Meidl. My research has also involved visits to Prof. Alexander Pott (Otto-von-Guericke University, Germany) and Prof. Enes Pasalic (University of Primorska, Slovenia).
           </p>
         </motion.div>
 

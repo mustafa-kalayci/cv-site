@@ -3,7 +3,7 @@ import React from "react";
 export default function ConferencesAndTalks() {
   return (
     <section className="max-w-5xl mx-auto px-6 py-20 text-gray-800 bg-white">
-      <h1 className="text-3xl md:text-4xl font-bold text-purple-600 mb-10 ">
+      <h1 className=" pl-4 text-3xl md:text-4xl font-bold text-[#744f9c] mb-10 ">
         Conferences & Talks
       </h1>
       <ul className="pl-4 space-y-6 text-gray-800 leading-relaxed">
@@ -11,7 +11,7 @@ export default function ConferencesAndTalks() {
           <span className="w-1 h-1 mt-2 rounded-full bg-black"></span>
           <p className="text-md whitespace-pre-line">
             <strong>July 2025:</strong> 30th Applications of Computer Algebra (ACA 2025), Crete, Greece (<strong>Invited Talk</strong>){"\n"}
-            <strong>Talk:</strong> Bent partitions, vectorial dual-bent functions, and association schemes.
+            <strong>Talk:</strong> Bent partitions, vectorial dual-bent functions, and association schemes
           </p>
         </li>
         <li className="flex items-start gap-2">
